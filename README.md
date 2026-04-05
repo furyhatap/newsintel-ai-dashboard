@@ -57,7 +57,7 @@ python hisse_analiz_bot.py
 
 I build custom AI dashboards and automation tools for finance, e-commerce, and data analysis.
 
-**Upwork:** [furyhatap on Upwork](https://upwork.com)  
-**Email:** your@email.com
+**Upwork:** [Furkan H. on Upwork](https://www.upwork.com/freelancers/~01abe94c9a834f9e15?mp_source=share)  
+**Email:** furkanhatapoglu@gmail.com
 
 > Available for freelance projects — fast delivery, clean code.
